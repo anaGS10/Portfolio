@@ -1,0 +1,64 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 1959 >>
+stream
+BT /F2 13 Tf 72 760 Td (ALEX MORGAN) Tj ET
+BT /F1 10 Tf 72 747 Td (Full-Stack Web Developer | MERN + Next.js) Tj ET
+BT /F1 10 Tf 72 734 Td () Tj ET
+BT /F1 10 Tf 72 721 Td (Bengaluru, India | alex.morgan@example.com | github.com/alex) Tj ET
+BT /F1 10 Tf 72 708 Td () Tj ET
+BT /F2 13 Tf 72 650 Td (SUMMARY) Tj ET
+BT /F1 10 Tf 72 682 Td (Web developer with 1.5 years of hands-on full-stack training and 6 months of) Tj ET
+BT /F1 10 Tf 72 669 Td (professional experience building fast, accessible web applications with React,) Tj ET
+BT /F1 10 Tf 72 656 Td (Node.js, and modern JavaScript.) Tj ET
+BT /F1 10 Tf 72 643 Td () Tj ET
+BT /F2 13 Tf 72 540 Td (EXPERIENCE) Tj ET
+BT /F1 10 Tf 72 617 Td (Junior Web Developer - TechNova Solutions \(Jan 2026 - Jun 2026\)) Tj ET
+BT /F1 10 Tf 72 604 Td (- Shipped 4 React + Tailwind dashboards; raised Lighthouse score 62 -> 90.) Tj ET
+BT /F1 10 Tf 72 591 Td (- Fixed 40+ cross-browser/accessibility issues; passed WCAG 2.1 AA checks.) Tj ET
+BT /F1 10 Tf 72 578 Td () Tj ET
+BT /F1 10 Tf 72 565 Td (Web Development Intern - PixelForge Studio \(Jul 2025 - Dec 2025\)) Tj ET
+BT /F1 10 Tf 72 552 Td (- Built 18-component library; pixel-perfect pages for 6 client projects.) Tj ET
+BT /F1 10 Tf 72 539 Td () Tj ET
+BT /F2 13 Tf 72 364 Td (EDUCATION) Tj ET
+BT /F1 10 Tf 72 513 Td (B.Tech, Computer Science & Engineering - 2025 | CGPA 8.4/10) Tj ET
+BT /F1 10 Tf 72 500 Td (Class XII \(PCM\) - 2021 | 88.5%) Tj ET
+BT /F1 10 Tf 72 487 Td () Tj ET
+BT /F2 13 Tf 72 276 Td (TRAINING) Tj ET
+BT /F1 10 Tf 72 461 Td (Full-Stack Web Development Program \(1.5 years\) - CodeCraft Academy) Tj ET
+BT /F1 10 Tf 72 448 Td (Certifications: freeCodeCamp RWD, JS Algorithms; Coursera Node.js; Git.) Tj ET
+BT /F1 10 Tf 72 435 Td () Tj ET
+BT /F2 13 Tf 72 188 Td (SKILLS) Tj ET
+BT /F1 10 Tf 72 409 Td (React, Next.js, TypeScript, Tailwind CSS, Node.js, Express, MongoDB,) Tj ET
+BT /F1 10 Tf 72 396 Td (REST APIs, Git/GitHub, Vercel/Netlify, Figma.) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000002261 00000 n 
+0000002331 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+2406
+%%EOF

@@ -11,7 +11,7 @@ export default function About() {
     <section id="about" className="section-shell py-24">
       <SectionHeading
         eyebrow="01. About Me"
-        title="Turning ideas into solutions"
+        title="Turning ideas into great solutions"
         description="A quick look at who I am, what I care about, and the kind of problems I love to solve."
       />
 
@@ -81,7 +81,7 @@ export default function About() {
             <div className="mt-8 flex flex-wrap items-center gap-2">
               <BadgeCheck size={16} className="text-accent" />
               <span className="text-sm font-medium text-muted">
-                1.5 years of hands-on full-stack training · 12+ projects shipped · always learning
+                months of hands-on full-stack training · former react native developer · always learning
               </span>
             </div>
           </Reveal>

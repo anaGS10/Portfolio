@@ -46,7 +46,7 @@ export default function Education() {
                   </div>
 
                   <div className="shrink-0 text-left sm:text-right">
-                    <p className="font-mono text-[11px] text-muted">{edu.period}</p>
+                    {/*<p className="font-mono text-[11px] text-muted">{edu.period}</p>*/}
                     <p className="mt-1 inline-flex items-center gap-1.5 rounded-lg border border-accent/30 bg-accent-soft px-3 py-1 font-display text-sm font-bold text-accent">
                       <Award size={14} />
                       {edu.score}

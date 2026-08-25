@@ -54,7 +54,7 @@ export default function Footer() {
 
       <p className="border-t border-border py-4 text-center text-xs text-muted">
         Designed &amp; built with <Heart size={11} className="inline text-accent" /> using Next.js,
-        Tailwind CSS &amp; Framer Motion · Deploy-ready for Vercel
+        Tailwind CSS &amp; Framer Motion
       </p>
     </footer>
   );

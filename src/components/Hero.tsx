@@ -70,9 +70,16 @@ export default function Hero() {
               <a href={profile.resume} download className="btn-secondary">
                 <Download size={16} /> Download Resume
               </a>
+              <a
+                href={profile.socials.email}
+                aria-label="Email"
+                className="flex h-10 w-10 items-center justify-center rounded-lg border border-border bg-card text-muted transition-colors hover:border-accent hover:text-accent"
+              >
+                <Mail size={18} />
+              </a>
             </motion.div>
 
-            <motion.div variants={item} className="mt-9 flex items-center gap-3">
+            {/*<motion.div variants={item} className="mt-9 flex items-center gap-3">
               <a
                 href={profile.socials.github}
                 target="_blank"
@@ -107,7 +114,7 @@ export default function Hero() {
               >
                 <Mail size={18} />
               </a>
-            </motion.div>
+            </motion.div>*/}
           </motion.div>
 
           <motion.div
@@ -151,7 +158,7 @@ export default function Hero() {
           </motion.div>
         </div>
 
-        <motion.div
+        {/*<motion.div
           initial={reduce ? false : { opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 0.5 }}
@@ -166,7 +173,7 @@ export default function Hero() {
               <p className="mt-1 text-xs font-medium text-muted sm:text-sm">{stat.label}</p>
             </div>
           ))}
-        </motion.div>
+        </motion.div>*/}
       </div>
 
       <a

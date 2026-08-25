@@ -37,15 +37,15 @@ export default function Experience() {
                           <span className="font-normal text-muted">· {job.type}</span>
                         </p>
                       </div>
-                      <span className="rounded-full border border-border bg-card px-3 py-1 font-mono text-xs font-medium text-muted">
+                      {/*<span className="rounded-full border border-border bg-card px-3 py-1 font-mono text-xs font-medium text-muted">
                         {job.period}
-                      </span>
+                      </span>*/}
                     </div>
 
                     <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-muted">
-                      <span className="inline-flex items-center gap-1">
+                      {/*<span className="inline-flex items-center gap-1">
                         <CalendarDays size={13} /> {job.duration}
-                      </span>
+                      </span>*/}
                       <span className="inline-flex items-center gap-1">
                         <MapPin size={13} /> {job.location}
                       </span>

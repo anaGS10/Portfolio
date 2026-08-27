@@ -31,7 +31,7 @@ export const profile = {
   phone: "+91 98765 43210",
   location: "Mysuru, India",
   availability: "Open to junior & entry-level opportunities",
-  photo: "/profile.svg",
+  photo: "/profile.png",
   resume: "/resume.pdf",
   domain: "https://portfolio-peach-kappa-31.vercel.app/",
   socials: {

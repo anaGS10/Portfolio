@@ -124,10 +124,10 @@ export default function Hero() {
             className="relative mx-auto w-fit"
           >
             <div className="animate-float">
-              <div className="glow relative overflow-hidden rounded-[2rem] border border-border">
+              <div className="glow relative overflow-hidden rounded-[12rem] border border-border">
                 <Image
                   src={profile.photo}
-                  alt={`Portrait of ${profile.name}`}
+                  alt={`Portrait`}
                   width={600}
                   height={600}
                   priority
